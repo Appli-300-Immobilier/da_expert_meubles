@@ -4,10 +4,10 @@
 - **Company Name:** DA Expert Meubles
 - **Directory:** da_expert_meubles
 - **Address/Contact:** 
-  - Feu de WilliamsVille , Abidjan, C�te d'Ivoire
+  - Feu de WilliamsVille , Abidjan, Céte d'Ivoire
   - 
-  - Williamsville, C�te d'Ivoire
-  - Coordonn�es
+  - Williamsville, Céte d'Ivoire
+  - Coordonnées
   - 
   - +225 71 83 03 77
   - 
