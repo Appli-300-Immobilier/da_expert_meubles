@@ -53,7 +53,7 @@ Accès Admin direct : `localhost:5173/admin` (après connexion)
 
 **DA Expert Meubles**
 * **Localisation :** Abidjan, Côte d'Ivoire
-* **Contact :** +225 71 83 03
+* **Contact :** +225 718 303 77
 * **Email :** contact@daexpertmeubles.cm
 * **Social :** [Facebook](https://facebook.com) | [WhatsApp](https://wa.me/237225718303)
 
